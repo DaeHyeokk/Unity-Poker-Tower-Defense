@@ -40,7 +40,7 @@
       - <details>
         <summary>코드 보기/숨기기</summary>
    
-        https://github.com/DaeHyeokk/Unity-Poker-Tower-Defense/blob/main/Assets/Scripts/Stage%20Scripts/Card%20Scripts/CardDrawer.cs#L115-L238  
+        https://github.com/DaeHyeokk/Unity-Poker-Tower-Defense/blob/11ecd87d756b2c837c9664faea20d6a0e1572099/Assets/Scripts/Stage%20Scripts/Card%20Scripts/CardDrawer.cs#L115-L238  
         </details>
       
    - **카드 뽑기**
